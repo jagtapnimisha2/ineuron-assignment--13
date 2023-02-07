@@ -7,4 +7,4 @@
 
 #### Screenshot of web page
 
-![image](./Screenshot%20(1489).png)
+![image]()
